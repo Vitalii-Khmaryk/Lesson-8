@@ -1,0 +1,716 @@
+@media screen and (max-width: 1241px) {
+  .icon {
+    display: none;
+  }
+
+  .icon-medium {
+    display: block;
+  }
+
+  .slider-left {
+    width: 620px;
+    background-position: center;
+  }
+  .slider-right {
+    width: 620px;
+  }
+  .text-head {
+    margin-top: 39.5%;
+  }
+  .content1 {
+    width: 960px;
+    height: 600px;
+    justify-content: center;
+  }
+  .photo1,
+  .photo2 {
+    width: 455px;
+    height: 301px;
+  }
+  .leftbox {
+    width: 47%;
+    height: 90%;
+  }
+  .rightbox {
+    width: 47%;
+    height: 90%;
+  }
+  .lifestyle2 {
+    left: -41%;
+    top: 58%;
+  }
+  .date2 {
+    top: 58%;
+    left: -97%;
+  }
+  .date3 {
+    top: -41.5%;
+    left: 10.5%;
+  }
+  .lifestyle3 {
+    left: 39.5%;
+    top: -42%;
+  }
+  .left-text {
+    top: 153%;
+    font-size: 23px;
+  }
+  .left-text2 {
+    font-size: 18px;
+    top: 164.5%;
+    width: 452px;
+  }
+  .right-text {
+    top: 153%;
+    font-size: 23px;
+  }
+  .right-text2 {
+    top: 163%;
+    width: 454px;
+    font-size: 18px;
+  }
+  .threebox {
+    justify-content: center;
+    margin-top: -137px;
+  }
+  .books {
+    margin-left: 38px;
+  }
+  .mens {
+    margin-left: 0px;
+  }
+  .yellowledi,
+  .books,
+  .mens,
+  .girlphoto,
+  .dogphoto,
+  .peoplephoto,
+  .microphoto,
+  .handphoto,
+  .jurnalphoto {
+    width: 295px;
+    height: 195px;
+  }
+  .lifestyle5 {
+    left: 80.5%;
+  }
+  .lifestyle6 {
+    left: 39%;
+  }
+  .lifestyle7 {
+    left: 36.5%;
+  }
+  .yellowtext {
+    width: 281px;
+  }
+  .endtext {
+    width: 318px;
+    left: 0;
+  }
+  .date6,
+  .centtext {
+    left: 10%;
+  }
+  .date7 {
+    left: 0px;
+  }
+  .btn2 {
+    margin-top: 20px;
+  }
+  .bigbox2 {
+    width: 1000px;
+  }
+  .btn3 {
+    margin-left: 133.5px;
+  }
+  .h1-rbox2 {
+    margin: 123px 80px;
+  }
+  .smallbox {
+    height: 306px;
+    justify-content: center;
+  }
+  .peoplephotobox {
+    margin-right: -8%;
+    margin-left: 10%;
+  }
+  .girl {
+    margin-left: -8%;
+  }
+  .INTERVIEWS1 {
+    left: 27%;
+  }
+  .peopletext,
+  .girltext {
+    width: 306px;
+  }
+  .INTERVIEWS2 {
+    left: 32%;
+  }
+  .INTERVIEWS3 {
+    left: 32.4%;
+  }
+  .news {
+    top: 370%;
+  }
+  .last3box {
+    height: 306px;
+    width: 988px;
+  }
+  .hand {
+    margin-left: -4%;
+    margin-right: -4%;
+  }
+  .micro {
+    margin-left: 3%;
+  }
+  .btn6 {
+    margin-left: 39%;
+  }
+  .NEWS1,
+  .NEWS2,
+  .NEWS3 {
+    left: 38%;
+  }
+  .jurnaltext,
+  .microtext {
+    width: 304px;
+  }
+  .hand {
+    margin-left: 2%;
+  }
+}
+@media screen and (max-width: 1031px) {
+  .smallbox {
+    position: relative;
+    left: -8%;
+  }
+  .threebox {
+    position: relative;
+    left: -6%;
+  }
+}
+@media screen and (max-width: 964px) {
+  .slider {
+    height: 354px;
+  }
+  .slider-left {
+    background-position: center;
+    height: 354px;
+  }
+  .slider-right {
+    width: 50%;
+    height: 354px;
+  }
+  .text-head {
+    margin-top: 22.5%;
+  }
+  .logoimg {
+    width: 105px;
+    height: 20px;
+  }
+  .AT {
+    font-size: 18px;
+  }
+  .date1,
+  .lifestyle {
+    font-size: 12px;
+  }
+  .text-head {
+    font-size: 12px;
+  }
+  .btn {
+    height: 40px;
+  }
+  .content1 {
+    width: 760px;
+    height: 490px;
+    justify-content: center;
+  }
+  .photo1,
+  .photo2 {
+    width: 346px;
+    height: 228px;
+  }
+  .date2 {
+    top: 55%;
+  }
+  .lifestyle2 {
+    left: -49%;
+    top: 55%;
+  }
+  .date3 {
+    top: -44%;
+    left: 13.5%;
+  }
+  .lifestyle3 {
+    left: 36%;
+    top: -44%;
+  }
+  .left-text {
+    top: 114%;
+    font-size: 17px;
+    width: 411px;
+  }
+  .right-text {
+    width: 427px;
+    top: 114%;
+    font-size: 17px;
+  }
+  .featured {
+    left: 100px;
+  }
+  .right-text2 {
+    top: 122%;
+    font-size: 14px;
+    width: 354px;
+  }
+  .left-text2 {
+    top: 123.5%;
+    font-size: 14px;
+    width: 354px;
+  }
+  .yellowledi,
+  .books,
+  .mens,
+  .girlphoto,
+  .dogphoto,
+  .peoplephoto,
+  .microphoto,
+  .handphoto,
+  .jurnalphoto {
+    width: 220px;
+    height: 145px;
+  }
+  .mens {
+    margin-left: -96px;
+  }
+  .yellowledi {
+    margin-left: 22%;
+  }
+  .books {
+    margin-left: 26px;
+  }
+  .header {
+    height: 60px;
+  }
+  .icon-medium {
+    top: 10px;
+  }
+  .left-text,
+  .right-text {
+    top: 107%;
+  }
+  .left-text2,
+  .right-text2 {
+    top: 116.5%;
+  }
+  .lifestyle5 {
+    left: 79.5%;
+  }
+  .date5 {
+    margin-left: 5%;
+  }
+  .yellowtext {
+    margin-left: 20%;
+    font-size: 16px;
+  }
+  .date6 {
+    left: 6%;
+  }
+  .lifestyle6 {
+    left: 18%;
+  }
+  .centtext {
+    font-size: 16px;
+    left: 13%;
+  }
+  .date7 {
+    left: -97px;
+  }
+  .lifestyle7 {
+    left: -18.5%;
+  }
+  .endtext {
+    font-size: 16px;
+    left: -105px;
+    width: 294px;
+  }
+  .bigbox2 {
+    width: 825px;
+  }
+  .h1-rbox2 {
+    font-size: 16px;
+    margin: 123px 114px;
+  }
+  .btn3 {
+    margin-left: 93.5px;
+  }
+  .btn2 {
+    margin-top: -8px;
+    margin-left: 36.2%;
+  }
+  .threebox {
+    position: relative;
+    left: -96px;
+  }
+  .smallbox {
+    width: 90%;
+  }
+  .peoplephotobox {
+    width: 35%;
+  }
+  .dog {
+    width: 42%;
+    margin-left: 2%;
+  }
+  .girl {
+    width: 34%;
+    margin-left: -7%;
+  }
+  .girlphoto {
+    margin-left: 0;
+  }
+  .INTERVIEWS1 {
+    left: 11%;
+  }
+  .peopletext {
+    width: 253px;
+    font-size: 16px;
+  }
+  .dogphoto {
+    margin-left: 50px;
+  }
+  .girlphoto {
+    margin-left: 21px;
+  }
+  .date9 {
+    left: 15%;
+  }
+  .INTERVIEWS2 {
+    left: 24%;
+  }
+  .INTERVIEWS3 {
+    left: 18.4%;
+  }
+  .dogtext {
+    font-size: 16px;
+    left: 20%;
+  }
+  .girltext {
+    font-size: 16px;
+  }
+  .btn4 {
+    margin-top: -14.5%;
+    margin-left: 34.3%;
+  }
+  .news {
+    top: 300%;
+  }
+  .last3box {
+    height: 238px;
+    width: 720px;
+    margin-left: 5%;
+  }
+  .jurnal {
+    width: 24%;
+  }
+  .hand {
+    margin-left: -4%;
+    margin-right: -4%;
+    width: 40%;
+  }
+  .NEWS1,
+  .NEWS2,
+  .NEWS3 {
+    left: 21%;
+  }
+  .jurnaltext,
+  .microtext {
+    width: 255px;
+    font-size: 16px;
+  }
+  .INTERVIEWS {
+    margin: -6px 35px;
+  }
+  .smallbox {
+    width: 108%;
+  }
+  .news {
+    top: 315%;
+  }
+  .btn6 {
+    margin-left: 35%;
+  }
+  .footimg {
+    height: 20px;
+    width: 105px;
+  }
+}
+@media screen and (max-width: 400px) {
+  body {
+    overflow-y: hidden;
+  }
+  .slider {
+    display: block;
+  }
+  .slider-right {
+    width: 100%;
+    height: 246px;
+  }
+  .slider-left {
+    width: 100%;
+    height: 294px;
+  }
+  .icon-medium {
+    left: 10px;
+  }
+  .photo1,
+  .photo2 {
+    width: 295px;
+    height: 195px;
+  }
+  .text-head {
+    margin-top: 5.5%;
+    width: 87%;
+  }
+  .date1 {
+    left: 2%;
+    top: 4%;
+  }
+  .lifestyle {
+    top: 4%;
+  }
+  .AT {
+    top: 10.5%;
+  }
+  .btn {
+    left: 17px;
+  }
+  .content1 {
+    display: block;
+  }
+  .featured {
+    top: 84%;
+    position: absolute;
+    left: 1%;
+  }
+  .leftbox {
+    width: 295px;
+    height: 195px;
+    margin-top: 35%;
+    margin-left: 1%;
+  }
+  .lifestyle2 {
+    left: -60%;
+    top: 105%;
+  }
+  .date2 {
+    top: 106%;
+  }
+  .left-text {
+    top: 121%;
+    width: 331px;
+    margin-left: 1%;
+  }
+  .left-text2 {
+    top: 129.5%;
+    width: 310px;
+    margin-left: 1%;
+  }
+  .rightbox {
+    margin-top: 24%;
+  }
+  .date3 {
+    top: -49%;
+    left: 2.5%;
+  }
+  .lifestyle3 {
+    left: 17%;
+    top: -49%;
+  }
+  .right-text {
+    top: 174%;
+    left: 2%;
+    width: 333px;
+  }
+  .right-text2 {
+    top: 182%;
+    left: 2%;
+  }
+  .threebox {
+    margin-top: 91%;
+    margin-left: 27%;
+    display: block;
+    height: 856px;
+    width: 295px;
+  }
+  .yellowledi {
+    margin-left: 5%;
+    width: 295px;
+    height: 195px;
+    display: block;
+  }
+  .lifestyle5 {
+    left: 85.5%;
+  }
+  .date5 {
+    margin-top: 8px;
+  }
+  .yellowtext {
+    margin-top: 6%;
+    margin-left: 10%;
+  }
+  .books {
+    width: 295px;
+    height: 195px;
+    display: block;
+    margin-left: 5%;
+  }
+  .lifestyle6 {
+    left: 44%;
+  }
+  .mens {
+    width: 295px;
+    height: 195px;
+    display: block;
+    margin-left: 5%;
+  }
+  .lifestyle7 {
+    left: 43.5%;
+  }
+  .date7 {
+    left: 15px;
+    top: 10%;
+  }
+  .endtext {
+    margin: 20px;
+    left: -4px;
+    width: 310px;
+  }
+  .centtext {
+    margin-top: 5%;
+  }
+  .lifestyle {
+    left: 40%;
+  }
+  .btn2 {
+    margin-left: 11.2%;
+  }
+  .bigbox2 {
+    display: block;
+  }
+  .rbox2 {
+    margin-top: -15%;
+  }
+  .h1-rbox2 {
+    font-size: 17px;
+    padding-top: 20%;
+  }
+  .smallbox {
+    margin-top: 130%;
+    display: block;
+  }
+  .INTERVIEWS {
+    margin: 290px 35px;
+  }
+  .btn3 {
+    margin-top: 15%;
+  }
+  .peoplephoto,
+  .dogphoto,
+  .girlphoto,
+  .microphoto,
+  .handphoto,
+  .jurnalphoto {
+    width: 295px;
+    height: 195px;
+    display: block;
+  }
+  .dog {
+    margin-top: 10%;
+  }
+  .INTERVIEWS1 {
+    position: absolute;
+    left: 75%;
+    top: 65%;
+  }
+  .dogphoto {
+    margin-left: 18%;
+  }
+  .INTERVIEWS2 {
+    position: absolute;
+    left: 75%;
+    top: 157%;
+  }
+  .girlphoto {
+    margin-left: 47%;
+  }
+  .date10 {
+    left: 50%;
+  }
+  .INTERVIEWS3 {
+    position: absolute;
+    top: 237%;
+    left: 73.4%;
+  }
+  .girltext {
+    left: 49%;
+  }
+  .btn4 {
+    margin-top: 123.5%;
+    margin-left: 12.3%;
+    display: block;
+  }
+  .last3box {
+    margin-top: 193%;
+    display: block;
+  }
+  .micro {
+    margin-left: -1%;
+  }
+  .footer {
+    margin-top: 235%;
+  }
+  .btn6 {
+    margin-left: 12%;
+    margin-top: 136%;
+  }
+  .peoplephotobox {
+    margin-left: 9%;
+  }
+  .dog {
+    margin-left: 1%;
+  }
+  .news {
+    top: 539%;
+  }
+  .NEWS1 {
+    left: 18%;
+  }
+  .handphoto {
+    margin: 10% 7%;
+  }
+  .date12 {
+    position: absolute;
+    margin-left: 7%;
+    margin-top: -6%;
+  }
+  .NEWS2 {
+    position: absolute;
+    left: 84%;
+    margin-top: -6%;
+  }
+  .handtext {
+    margin-left: 8%;
+  }
+  .jurnal {
+    margin-left: -1.5%;
+  }
+  .NEWS3 {
+    left: 78%;
+  }
+  .date9 {
+    left: 19%;
+  }
+}
